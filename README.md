@@ -1,2 +1,2 @@
-# storymatrix
-Understanding machine leanring decisions through visualisations
+# predictive
+Understanding machine learning decisions through visualisations, analysis and modeling
